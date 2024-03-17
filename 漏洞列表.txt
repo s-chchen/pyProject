@@ -1,0 +1,7 @@
+http://117.15.130.40:85/onvif-http/snapshot?auth=YWRtaW46MTEK
+http://190.85.163.182:8084/onvif-http/snapshot?auth=YWRtaW46MTEK
+http://101.51.58.138:102/onvif-http/snapshot?auth=YWRtaW46MTEK
+http://60.162.77.202:84/onvif-http/snapshot?auth=YWRtaW46MTEK
+http://60.172.3.65:86/onvif-http/snapshot?auth=YWRtaW46MTEK
+http://103.243.4.146:88/onvif-http/snapshot?auth=YWRtaW46MTEK
+http://49.64.200.83:1526/onvif-http/snapshot?auth=YWRtaW46MTEK
